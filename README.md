@@ -34,12 +34,14 @@ tools LabelImg
 test.txt files.
   a. Configuring all the needed variables based on class in the config file
   b. Creating obj.names and obj.data files
+  
 i. obj.names : Classes to be detected
 
 ![alt text](https://github.com/udaybhaskar717/GNR-638/blob/main/Screenshot%202022-11-24%20194250.png)
 
 ii. obj.data:
-![alt text] (https://github.com/udaybhaskar717/GNR-638/blob/main/Screenshot%202022-11-24%20194634.png)
+
+![alt text](https://github.com/udaybhaskar717/GNR-638/blob/main/Screenshot%202022-11-24%20194634.png)
 
 c. Configuring train.txt and test.txt
 6. Download pre-trained weights for the convolutional layers
