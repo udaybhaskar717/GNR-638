@@ -35,7 +35,7 @@ test.txt files.
   a. Configuring all the needed variables based on class in the config file
   b. Creating obj.names and obj.data files
 i. obj.names : Classes to be detected
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/udaybhaskar717/GNR-638/blob/main/Screenshot%202022-11-24%20194250.png)
 ii. obj.data:
 c. Configuring train.txt and test.txt
 6. Download pre-trained weights for the convolutional layers
