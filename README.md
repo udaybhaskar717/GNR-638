@@ -1,6 +1,8 @@
 # Invoice automatic scanning and text predictions
 ## Solution methodology
+
 **BUSINESS OVERVIEW:**
+
 People have been relying on paper invoices for a very long time but these days, all 
 have become digital and so are invoices. Reconciling digital invoices is currently a man-made 
 job but this can be automated to avoid men spending hours on browsing through several 
@@ -9,7 +11,9 @@ important classes from the invoices. They are:
 1. Invoice number
 2. Billing Date
 3. Total amount
+
 **APPLICATIONS:**
+
 This project can be applicable to any field that is currently going through all the bills 
 manually to jot it down in a ledger.
 TECH STACK:
@@ -17,7 +21,9 @@ Language: Python
 Object detection : YOLO V4
 Text Recognition : Tesseract OCR
 Environment: Google Colab
+
 **APPROACH:**
+
 1. Setting up and Installation to run Yolov4 Downloading AlexeyAB's famous repository and we will be adjusting the  Makefile to enable OPENCV and GPU for darknet and then build darknet.
 2. Downloading pre-trained YOLOv4 weights YOLOv4 has been trained already on the coco dataset which has 80 classes  that it can predict. We will take these pretrained weights to see how it gives result  on some of the images.
 3. Creating display functions to display the predicted class
@@ -41,7 +47,9 @@ data
 b. Getting list of predicted files from the directory
 c. Using tesseract pretrained LSTM model to extract the text
 d. Fine tuning the LSTM model.
+
 **PROJECT TAKEAWAYS:**
+
 1. Setting up YOLO V4
 2. Data labelling with LabelImg
 3. Understanding YOLO architecture
