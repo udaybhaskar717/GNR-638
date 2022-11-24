@@ -55,13 +55,11 @@ d. Fine tuning the LSTM model.
 3. Understanding YOLO architecture
 4. Understanding how to use pre trained models of YOLO
 5. Configuring YOLO to any project
-6. Understanding LSTM
-7. Understanding Object detection 
-8. Training Custom Object Detector with YOLO
-9. Understanding Text extraction using Tesseract
-10. Understanding what is OCR
-11. Using tesseract pretained LSTM
-12. Configuring Tessaract model to our needs
-13. Fine tuning Tessaract model
-14. Understanding Mean Average Precision
-15. Storing and displaying detected classes in an image
+6. Understanding Object detection 
+7. Training Custom Object Detector with YOLO
+8. Understanding Text extraction using Tesseract
+9. Understanding what is OCR
+10. Using tesseract pretained LSTM
+11. Configuring Tessaract model to our needs
+12. Understanding Mean Average Precision
+13. Storing and displaying detected classes in an image
