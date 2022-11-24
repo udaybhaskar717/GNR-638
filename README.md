@@ -39,6 +39,7 @@ i. obj.names : Classes to be detected
 ![alt text](https://github.com/udaybhaskar717/GNR-638/blob/main/Screenshot%202022-11-24%20194250.png)
 
 ii. obj.data:
+![alt text] (https://github.com/udaybhaskar717/GNR-638/blob/main/Screenshot%202022-11-24%20194634.png)
 
 c. Configuring train.txt and test.txt
 6. Download pre-trained weights for the convolutional layers
@@ -49,8 +50,6 @@ c. Configuring train.txt and test.txt
 a. Importing pytesseract and setting environment variable for english trained 
 data
 b. Getting list of predicted files from the directory
-c. Using tesseract pretrained LSTM model to extract the text
-d. Fine tuning the LSTM model.
 
 **PROJECT TAKEAWAYS:**
 
