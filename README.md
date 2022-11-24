@@ -32,9 +32,10 @@ labels for better training of the model so we will label our images using annota
 tools LabelImg
 5. Configuring Files for Training This step involves configuring custom .cfg, obj.data, obj.names, train.txt and 
 test.txt files.
-a. Configuring all the needed variables based on class in the config file
-b. Creating obj.names and obj.data files
+  a. Configuring all the needed variables based on class in the config file
+  b. Creating obj.names and obj.data files
 i. obj.names : Classes to be detected
+![alt text](http://url/to/img.png)
 ii. obj.data:
 c. Configuring train.txt and test.txt
 6. Download pre-trained weights for the convolutional layers
