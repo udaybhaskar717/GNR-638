@@ -1,6 +1,6 @@
 # Invoice automatic scanning and text predictions
 ## Solution methodology
-
+**paper implemented : YOLOv4: Optimal Speed and Accuracy of Object Detection**
 **BUSINESS OVERVIEW:**
 
 People have been relying on paper invoices for a very long time but these days, all 
@@ -68,3 +68,14 @@ b. Getting list of predicted files from the directory
 11. Configuring Tessaract model to our needs
 12. Understanding Mean Average Precision
 13. Storing and displaying detected classes in an image
+
+* Presentation Vedio Link : https://drive.google.com/file/d/1qIAPEPTeDaH6meCvKZHRtK66dQXlQLvO/view?usp=sharing
+* Acknowledgement : We have used few code blocks from various repositories and we have sited the same below.
+
+References:
+1. https://arxiv.org/abs/2004.10934
+2. https://github.com/AlexeyAB/darknet
+3. https://github.com/pjreddie/darknet
+4. https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial
+5. https://arxiv.org/abs/2004.10934
+6. https://pjreddie.com/darknet/yolo/
