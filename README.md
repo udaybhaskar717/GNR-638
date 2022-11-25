@@ -3,6 +3,7 @@
 **paper implemented : YOLOv4: Optimal Speed and Accuracy of Object Detection**
 
 Link for code and Model Weights: https://drive.google.com/drive/folders/1_AlC3vuF0nxJnwfQN1b04_0ej7e6L6QH?usp=share_link
+
 **BUSINESS OVERVIEW:**
 
 People have been relying on paper invoices for a very long time but these days, all 
